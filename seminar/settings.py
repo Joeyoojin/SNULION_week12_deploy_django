@@ -55,7 +55,7 @@ MIDDLEWARE = [
 CSRF_TRUSTED_ORIGINS = [
    'http://127.0.0.1:3000', 
    'http://localhost:3000',
-   'http://port-0-snulion-week12-deploy-django-dihik2mlizm4mus.sel4.cloudtype.app/'
+   'http://port-0-snulion-week12-deploy-django-dihik2mlizm4mus.sel4.cloudtype.app',
 ]
 CORS_ALLOWED_ORIGINS= [
   'http://127.0.0.1:3000', 
